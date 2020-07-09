@@ -2,5 +2,5 @@ Coder, blogger, international keynote speaker, Java Champion. I work for JetBrai
 
 Pronouns: she/her.
 
-http://trishagee.com/
+http://trishagee.com/  
 https://twitter.com/trisha_gee
