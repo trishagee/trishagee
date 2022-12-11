@@ -1,4 +1,4 @@
-Coder, blogger, international keynote speaker, Java Champion. I work for JetBrains.  
+Coder, blogger, international keynote speaker, Java Champion. Used to work for JetBrains.  
 
 Pronouns: she/her.
 
