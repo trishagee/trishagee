@@ -4,4 +4,4 @@ Pronouns: she/her.
 
 http://trishagee.com/  
 https://twitter.com/trisha_gee  
-https://mastodon.social/@trishagee
+<a rel="me" href="https://jvm.social/@trisha_gee">https://jvm.social/@trisha_gee</a>
